@@ -191,7 +191,7 @@ export const DATA = {
     },
     {
       title: "WebSync Portfolio",
-      href: "",
+      href: "https://portfolio-pied-two-59.vercel.app/",
       dates: "September 2025",
       active: true,
       description:
@@ -217,7 +217,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Portfolio.png",
+      image: "/portfolio.png",
       video: "",
     },
   ],
