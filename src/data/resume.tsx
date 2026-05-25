@@ -102,7 +102,7 @@ export const DATA = {
     {
       title: "Intract - Video Confrence App",
       href: "https://interact-seven-delta.vercel.app/",
-      dates: "September 2024",
+      dates: "Jan 2026",
       active: true,
       description:
         "Interact leverages WebRTC for peer-to-peer media streaming and Socket.IO for real-time signaling and chat — giving users low-latency, high-quality video and audio communication directly in the browser. No plugins. No downloads.",
@@ -133,7 +133,7 @@ export const DATA = {
     {
       title: "Ristrict",
       href: "https://movie-ticket-booking-app-kappa.vercel.app/",
-      dates: "September 2024",
+      dates: "September 2025",
       active: true,
       description:
         "Ristrict is a full-stack movie ticket booking web application built with the MERN stack + Socket.IO — inspired by District by Zomato. Users can browse movies and cinemas by location, select showtimes, lock seats in real time (10-minute hold), pay via Razorpay (test mode), and instantly receive digital tickets — all with clean admin and owner dashboards for cinema and showtime management. ",
@@ -159,6 +159,36 @@ export const DATA = {
       image: "/ristrict.png",
       video: "",
     },
+    {
+    title: "Floyd's Barber - Landing Page",
+      href: "https://salon-gamma-two.vercel.app/",
+      dates: "May 2026",
+      active: true,
+      description:
+        "Modern salon landing page built with React and GSAP, featuring smooth animations, responsive design, and an elegant user experience for seamless client appointment booking.",
+       technologies: [
+        "React.js",
+        "Javascript",
+        "Gsap",
+        "TailwindCSS",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://salon-gamma-two.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/VibhuGupta-dev/Salon",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/salon.png",
+      video: "",
+    },
+
     {
       title: "PabloNote.AI",
       href: "https://pablo-notes.vercel.app/",
