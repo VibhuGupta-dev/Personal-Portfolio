@@ -188,6 +188,35 @@ export const DATA = {
       image: "/salon.png",
       video: "",
     },
+    {
+    title: "glow-rituals - Landing Page",
+      href: "https://glow-rituals-six.vercel.app/#contact",
+      dates: "May 2026",
+      active: true,
+      description:
+        "Modern Sunscreen brand landing page built with React and GSAP, featuring smooth animations, responsive design, and an elegant user experience for seamless product purchase.",
+       technologies: [
+        "React.js",
+        "Javascript",
+        "Gsap",
+        "TailwindCSS",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://glow-rituals-six.vercel.app/#contact",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/VibhuGupta-dev/Glow_Rituals",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/ecommerce.png",
+      video: "",
+    },
 
     {
       title: "PabloNote.AI",
