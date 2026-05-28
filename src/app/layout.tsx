@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://devhrithik.tech/ogimage.png",
+        url: "https://res-console.cloudinary.com/domylmj7e/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/VmliaHVfR3VwdGFfeDUycXJ1/template_primary",
         width: 1200,
         height: 630,
         alt: DATA.name,
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   twitter: {
     title: `${DATA.name}`,
     card: "summary_large_image",
-    images: ["https://devhrithik.tech/ogimage.png"],
+    images: ["https://res-console.cloudinary.com/domylmj7e/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/VmliaHVfR3VwdGFfeDUycXJ1/template_primary"],
   },
   verification: {
     google: "",
