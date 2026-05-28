@@ -190,7 +190,7 @@ export const DATA = {
     },
     {
     title: "glow-rituals - Landing Page",
-      href: "https://glow-rituals-six.vercel.app/#contact",
+      href: "https://glow-rituals-xdvx.vercel.app/",
       dates: "May 2026",
       active: true,
       description:
@@ -205,7 +205,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://glow-rituals-six.vercel.app/#contact",
+          href: "https://glow-rituals-xdvx.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
